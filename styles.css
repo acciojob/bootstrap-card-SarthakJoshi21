@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+  .card-title{
+        background-color: antiquewhite;
+    }
+    .card-body-2{
+        background-color:red;
+        color: white;
+        width: 80%;
+    }
